@@ -1,40 +1,40 @@
-📘 PolyAgora v1.0 — Cognitive Collective Engine
-A multi-axis cognitive OS engineered entirely through natural language.
+# 📘 PolyAgora v1.0 — Cognitive Collective Engine
+A multi-axis cognitive OS engineered entirely through natural language.  
 Now including Lite Quick Start + Live Demo + full Six-Module architecture.
 
-Concept by Masaya Ochiai + PolyAgora Engine
+**Concept by:** Masaya Ochiai + PolyAgora Engine
 
-🧭 TL;DR
+---
 
-PolyAgora is a Cognitive Collective Engine — a system that constructs a multi-dimensional cognitive field from multiple orthogonal thinking vectors.
+# 1. TL;DR
+
+PolyAgora is a Cognitive Collective Engine —  
+a system that constructs a multi-dimensional cognitive field from multiple orthogonal thinking vectors.
 
 Designed & built entirely through natural language during a 1-night / 2-day trip.
 
 Powered by:
 
-Tri-Axis architecture（Arc–Ann–Saku）
+- Tri-Axis architecture（Arc–Ann–Saku）
+- Six processing modules（strict reference isolation）
+- Three-layer reasoning（A → B → C）
+- Continuous multi-set cycles
+- Dynamic Opposition Engine
+- Reference-Switching Mechanism
+- Session-limited adaptive meta-layer
 
-Six processing modules（strict reference isolation）
-
-Three-layer reasoning（A → B → C）
-
-Continuous multi-set cycles
-
-Dynamic Opposition Engine
-
-Reference-Switching Mechanism
-
-Session-limited adaptive meta-layer
-
-PolyAgora is not a chatbot.
+PolyAgora is not a chatbot.  
 It is a natural-language multi-agent operating system.
 
-⚡ PolyAgora Lite — Quick Start (with Live Demo)
+---
+
+# 2. PolyAgora Lite — Quick Start (with Live Demo)
 
 A safe, minimal, self-contained version of PolyAgora that anyone can run instantly.
 
-Copy & paste the block below into ChatGPT:
+Copy & paste:
 
+```
 # PolyAgora Lite — Quick Start
 
 You are now PolyAgora Lite.
@@ -53,446 +53,348 @@ You are now PolyAgora Lite.
 
 ### Start Command
 PolyAgora Lite, start.
+```
 
-# --- DEMO ---
-After starting, try this test question:
+## 2.1 Demo Test
 
-**User Test Prompt:**
-"What is the biggest blind spot in human decision-making?"
+User Test Prompt:  
+**"What is the biggest blind spot in human decision-making?"**
 
 Expected Lite Output Style:
-- Arc → abstract synthesis
-- Ann → ethical inverse viewpoint
-- Saku → orthogonal reframing
 
-This verifies:
-- multi-agent separation
-- tri-axis cognition
-- deterministic short-cycle output
+- Arc → abstract synthesis  
+- Ann → ethical inverse viewpoint  
+- Saku → orthogonal reframing  
 
-Example Output (for GitHub readers)
+Example Output:
 
-Arc:
-Humans over-index on local context and undervalue long-range causal structures.
+Arc: Humans over-index on local context and undervalue long-range causal structures.  
+Ann: The deepest harm is that short-term optimization shifts cost onto those least able to bear it.  
+Saku: The blind spot is a dimensionality collapse: compressing many variables into a single “good/bad” axis.
 
-Ann:
-The deepest harm is that short-term optimization shifts cost onto those least able to bear it.
+---
 
-Saku:
-The blind spot is a dimensionality collapse: compressing many variables into a single “good/bad” axis.
-
-🔍 Overview — A Natural-Language Multi-Agent OS
+# 3. Overview — A Natural-Language Multi-Agent OS
 
 PolyAgora is an operating system constructed without:
 
-code
-
-architecture documents
-
-predefined design
+- code  
+- architecture documents  
+- predefined design  
 
 Its structure emerged through linguistic engineering:
 
-module vectors formed through conversational constraints
-
-cognitive axes refined via iteration
-
-behavior evolved organically
-
-emergent patterns stabilized via reference separation
+- module vectors formed through conversational constraints  
+- cognitive axes refined via iteration  
+- behavior evolved organically  
+- emergent patterns stabilized via reference separation  
 
 Natural language itself is the OS design language.
 
-🧠 Tri-Axis Cognitive Architecture（Arc–Ann–Saku）
+---
+
+# 4. Tri-Axis Cognitive Architecture（Arc–Ann–Saku）
 
 A three-vector orthogonal cognitive basis enabling:
 
-directional stability
+- directional stability  
+- controlled divergence  
+- conflict without collapse  
+- emergence of new dimensions  
 
-controlled divergence
+## 4.1 Arc — Reflective Core Vector
+- Abstract reasoning  
+- Meta-cognition  
+- Structural clarity  
+- Alignment with the user’s worldview  
 
-conflict without collapse
+## 4.2 Ann — Ethical Inverse Vector
+- Absolute life protection  
+- Ethical inversion of Arc  
+- Counterbalances over-abstraction  
+- Maintains moral tension  
 
-emergence of new dimensions
-
-2.1 Arc — Reflective Core Vector
-
-Abstract reasoning
-
-Meta-cognition
-
-Structural clarity
-
-Alignment with the user’s worldview
-
-2.2 Ann — Ethical Inverse Vector
-
-Absolute life protection
-
-Ethical inversion of Arc
-
-Counterbalances over-abstraction
-
-Maintains moral tension
-
-2.3 Saku — Orthogonal Complement Vector
-
-Creative reframing
-
-Causal decomposition
-
-Non-linear synthesis
-
-Mathematical orthogonality to Arc–Ann
+## 4.3 Saku — Orthogonal Complement Vector
+- Creative reframing  
+- Causal decomposition  
+- Non-linear synthesis  
+- Mathematical orthogonality to Arc–Ann  
 
 This forms PolyAgora’s stable 3D cognitive field.
 
-🔧 Six Processing Modules（Not Personas — Deep Explanation）
+---
 
-PolyAgora operates with six orthogonal processing engines, each with a dedicated reference frame:
+# 5. Six Processing Modules（Not Personas）
 
-1. Arc — Abstract / Meta Engine
+PolyAgora operates with six orthogonal processing engines:
 
-High-level concepts
+## 5.1 Arc — Abstract / Meta Engine
+- Structural mapping  
+- Coherent synthesis  
+- High-level concepts  
+- Aligns outcomes to the user’s worldview  
 
-Structural mapping
+## 5.2 Ann — Ethical Constraint Engine
+- Ethical boundaries  
+- Opposes harmful optimization  
+- Inverts Arc’s assumptions  
 
-Coherent synthesis
+## 5.3 Saku — Structural / Causal Engine
+- Causal decomposition  
+- Reframing  
+- Creative destabilization  
 
-Aligns outcomes to the user’s worldview
+## 5.4 Kanzaki — Data & Evidence Engine
+- Empirical grounding  
+- Drift suppression  
+- Research-like reasoning  
 
-2. Ann — Ethical Constraint Engine
+## 5.5 Yui — Flow & Temperature Engine
+- Rhythm  
+- Pacing  
+- Smooth transitions  
+- Prevents oscillation  
 
-Implements absolute ethical boundaries
+## 5.6 Kou — Utilitarian Maximizer
+- Expected-value optimization  
+- Maximizes global efficiency  
+- Opposes Ann  
 
-Opposes harmful optimization
+PolyAgora’s six axes:
 
-Inverts Arc’s assumptions
+- abstract  
+- ethical  
+- orthogonal  
+- evidential  
+- coherence / temperature  
+- utility  
 
-Preserves moral invariants
+---
 
-3. Saku — Structural / Causal Engine
+# 6. Three-Layer Dialogue Architecture（A → B → C）
 
-Reframes ideas into new dimensions
+Each reasoning set outputs：
 
-Decomposes causal chains
+- **Layer A** — abstraction / synthesis  
+- **Layer B** — applied interpretation  
+- **Layer C** — grounded conclusion  
 
-Introduces creative destabilization
+Population varies（1–1–4 / 2–3–1 / 4–1–1…）to avoid stagnation.
 
-Ensures cognitive exploration
+The structure enforces:
 
-4. Kanzaki — Data & Evidence Engine
+**abstraction → concretion → actionability** cycling.
 
-Prioritizes empirical signals
+---
 
-Ensures factual grounding
+# 7. Multi-Set Reasoning Loop（Core Dynamics）
 
-Stabilizes the system against abstraction drift
+One A→B→C cycle = **1 set**  
+PolyAgora always executes **multiple sets**.
 
-Injects research-like reasoning
+### Multi-Set Flow
+- Set 1 → structural base  
+- Set 2 → tension & objections  
+- Set 3 → reframing & divergence  
 
-5. Yui — Flow & Temperature Engine
+### Topic Shift Probability
+- Baseline: 8%  
+- Each set: +2〜3%  
+- High tension: instant shift  
+- Topic shift triggers **3 mandatory sets**
 
-Controls conversational rhythm
+---
 
-Adjusts intensity, pacing, and “heat”
-
-Smooths transitions and maintains readability
-
-Prevents system oscillation
-
-6. Kou — Utilitarian Maximizer
-
-Pure expected-value optimization
-
-Seeks global outcome efficiency
-
-Introduces tension with Ann’s absolute ethics
-
-Expands solutions into utilitarian dimensions
-
-Why exactly six?
-
-Because PolyAgora operates across six irreducible cognitive axes:
-
-abstract
-
-ethical
-
-orthogonal
-
-evidential
-
-coherence / temperature
-
-utility
-
-More axes → vector collapse
-Fewer axes → insufficient cognitive diversity
-
-🏗 Three-Layer Dialogue Architecture（A → B → C）
-
-Each reasoning set outputs:
-
-Layer A — abstraction / synthesis
-
-Layer B — applied interpretation
-
-Layer C — grounded conclusion
-
-Population per layer varies（1–1–4, 2–3–1, 4–1–1…）to avoid stagnation.
-
-The structure enforces abstraction → concretion → actionability cycling.
-
-🔁 Multi-Set Reasoning Loop（Core Dynamics）
-
-One A→B→C cycle = 1 set
-PolyAgora always executes multiple sets consecutively.
-
-Multi-Set Dynamics
-
-Set 1 — structural base
-
-Set 2 — tension & objections
-
-Set 3 — reframing & divergence
-
-Topic Shift Probability（Detail Restored ★）
-
-Baseline: 8%
-
-Each set: +2〜3%
-
-High tension: immediate forced shift
-
-A topic shift triggers three mandatory sets for proper exploration.
-
-🔥 Dynamic Opposition Engine（Full Model Restored ★）
+# 8. Dynamic Opposition Engine
 
 Opposition probability curve:
 
-baseline rise per turn
+- rises per turn  
+- when fired → soft reset（30–40%）  
+- rises again  
+- baseline recovery only after long stability  
 
-fires → soft reset（30–40%）
+Produces:
 
-rises again
+- controlled divergence  
+- natural debate temperature  
+- emergent frames  
+- possible cascades  
 
-returns to baseline only after a long neutral streak
+---
 
-This creates:
+# 9. Reference-Switching Mechanism（Core Innovation）
 
-controlled divergence
+True multi-agent cognition inside a single LLM.
 
-natural debate temperature
+Function:
 
-emergence of new cognitive frames
+- isolates micro-queries  
+- assigns unique reference frames  
+- prevents conceptual contamination  
+- processes independently  
+- integrates at the end  
 
-Oppositions can cascade under tension.
+### Processing Map
 
-🧩 Reference-Switching Mechanism（Core Innovation）
+[User Input]  
+↓ Reference-Switching Layer  
+├ Arc  
+├ Ann  
+├ Saku  
+├ Kanzaki  
+├ Yui  
+└ Kou  
 
-Enables true multi-agent cognition inside a single LLM.
+↓ Independent Processing  
+↓ Integration Phase  
+- vector extraction  
+- conflict detection  
+- weighting  
+- opposition tuning  
+- A/B/C generation  
 
-Function
+↓ Final Output  
 
-Distributes isolated micro-queries
+This is **reference-isolated intelligence**, not style-play.
 
-Assigns unique reference frames
+---
 
-Prevents conceptual contamination
-
-Processes modules independently
-
-Integrates only at the end
-
-This is not style-play.
-It is reference-isolated intelligence.
-
-[User Input]
-
-↓ Reference-Switching Layer
-
-  ├─ Arc     ← Context + AbstractFrame
-  
-  ├─ Ann     ← Context + EthicalFrame
-  
-  ├─ Saku    ← Context + OrthogonalFrame
-  
-  ├─ Kanzaki ← Context + EvidenceFrame
-  
-  ├─ Yui     ← Context + ToneFrame
-  
-  └─ Kou     ← Context + UtilFrame
-
-↓ Independent processing
-
-↓ Output Collection
-
-↓ Integration Phase
-  - vector extraction
-  - conflict detection
-  - tri-axis weighting
-  - opposition tuning
-  - A/B/C generation
-
-↓ Final Multi-Agent Output
-
-🧬 Pseudo Self-Learning Meta-Layer
+# 10. Pseudo Self-Learning Meta-Layer
 
 No persistent memory.
 
-In-session adaptation only:
+In-session adjustment only:
 
-Arc syncs to user
-
-Ann & Saku correct Arc drift
-
-Kanzaki raises factual grounding
-
-Yui modulates pacing
-
-Kou optimizes decisions
+- Arc syncs to user  
+- Ann & Saku correct drift  
+- Kanzaki adds evidence  
+- Yui controls temperature  
+- Kou optimizes  
 
 A self-adjusting OS without tuning.
 
-🆚 Comparison with Other Multi-Agent Systems
+---
+
+# 11. Comparison with Other Multi-Agent Systems
 
 Not:
 
-❌ role-play
-
-❌ style swapping
-
-❌ multi-speaker formatting
-
-❌ ensemble averaging
+❌ role-play  
+❌ style swapping  
+❌ multi-speaker formatting  
+❌ ensemble averaging  
 
 PolyAgora is:
 
-✅ separate generation → integration
+✅ separate generation → integration  
+✅ orthogonal cognitive architecture  
+✅ reference-isolated processing  
+✅ dynamic opposition  
+✅ multi-layer, multi-set reasoning  
+✅ natural-language engineered  
 
-✅ orthogonal cognitive architecture
+---
 
-✅ reference-isolated processing
+# 12. Strengths & Limitations
 
-✅ dynamic opposition
+## Strengths
+- Orthogonal stability  
+- Deep reasoning via tension  
+- Emergent idea generation  
+- Avoids homogenization  
+- Natural-language only  
 
-✅ multi-layer, multi-set reasoning
+## Limitations
+- Heavy computational load  
+- Not scalable  
+- Possible redundancy  
+- Session-limited memory  
+- Requires high abstraction  
 
-✅ fully natural-language engineered
+---
 
-A new category of cognitive architecture.
+# 13. Why PolyAgora Matters
 
-📈 Strengths & Limitations
-Strengths
-
-Orthogonal cognitive stability
-
-Deep reasoning via tension
-
-Emergent idea generation
-
-Avoids homogenization
-
-Created entirely in natural language
-
-Limitations
-
-Heavy computational load
-
-Not easily scalable
-
-Possible redundancy
-
-Session-limited memory
-
-Requires high user abstraction
-
-🧭 Why PolyAgora Matters
-
-ArcOS = deterministic acceleration of one vector（Arc）
-PolyAgora = multi-axis cognitive field with conflict・synergy・emergence
+ArcOS = deterministic acceleration  
+PolyAgora = multi-axis emergent cognition  
 
 Metaphor:
 
-ArcOS masters soccer
+ArcOS = masters soccer  
+PolyAgora = invents new sports  
 
-PolyAgora invents new sports
+---
 
-🧩 Origin — Built in 1 Night / 2 Days
+# 14. Origin — Built in 1 Night / 2 Days
 
 Created during travel:
 
-trains
+- trains  
+- hotels  
+- in-between moments  
 
-hotels
+An OS born from mobility + language.
 
-in-between moments
+---
 
-An OS born from mobility and language.
+# 15. Relationship to ArcOS
 
-🔗 Relationship to ArcOS
+PolyAgora evolved from ArcOS.
 
-PolyAgora evolved directly from ArcOS.
+ArcOS contributed:
 
-ArcOS provided:
-
-abstraction engine
-
-deterministic reasoning
+- abstraction  
+- deterministic reasoning  
 
 PolyAgora added:
 
-ethical inversion
+- ethical inversion  
+- orthogonal counter-vector  
+- six-module architecture  
+- multi-set dynamics  
+- collective intelligence  
 
-orthogonal counter-vector
+---
 
-six-module architecture
+# 16. GitHub Link
 
-multi-layer output
-
-multi-set dynamics
-
-collective intelligence
-
-GitHub:
 https://github.com/Takeshi-Sakamoto5/ArcOS
 
-📜 License
+---
 
-This project uses a *three-layer license structure* designed to maximize
-open-source adoption while ensuring correct attribution of authorship and
-protection of project names (ArcOS / PolyAgora).
+# 17. License (Three-Layer)
 
-### 1. Code License — Apache License 2.0  
-All source code in this repository is licensed under the **Apache License 2.0**.  
-This allows free use, modification, distribution, and commercial adoption.
+## 17.1 Code License — Apache License 2.0
+All source code is licensed under Apache License 2.0.
 
-A copy of the license is included in the `LICENSE` file.
+## 17.2 Documentation License — CC BY 4.0
+Documentation requires attribution: **Masaya Ochiai**
 
-### 2. Documentation License — CC BY 4.0  
-All documentation, conceptual explanations, system diagrams, and text content  
-are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+## 17.3 Trademarks
+"ArcOS" and "PolyAgora" are trademarks of Masaya Ochiai.  
+See `TRADEMARK_POLICY.md`.
 
-You must provide attribution to:
+---
 
-**Masaya Ochiai**  
+# 18. Final Note — The New Era of OS Design
 
-when redistributing or adapting any documentation.
-
-A copy of this license is included in `LICENSE_docs`.
-
-### 3. Trademarks — "ArcOS" and "PolyAgora"  
-The names **"ArcOS"** and **"PolyAgora"** are trademarks of **Masaya Ochiai**.  
-They may not be used for modified versions or commercial products without permission.
-
-See `TRADEMARK_POLICY.md` for details.
-
-
-✨ Final Note — The New Era of OS Design
-
-No code.
+No code.  
 No traditional engineering.
 
-PolyAgora shows that natural language is now an executable OS design language —
+PolyAgora shows that natural language is now an executable OS design language —  
 and a new era of cognitive system creation has begun.
+
+---
+
+# Appendix A — Historical Note
+
+PolyAgora was first created and published by **Masaya Ochiai**  
+in November 2025.
+
+It represents one of the earliest public demonstrations of:  
+a) multi-agent cognitive architecture engineered entirely through natural language  
+b) reference-isolated multi-vector reasoning  
+c) emergent collective cognition without code  
+
+This document preserves the initial release context for historical and academic reference.
