@@ -258,6 +258,10 @@ Function:
 
 This is **reference-isolated intelligence**, not style-play.
 
+
+PolyAgora includes a lightweight **continuity layer** that maintains coherent multi-agent reasoning across cycles.
+
+
 ---
 
 # 10. Pseudo Self-Learning Meta-Layer
