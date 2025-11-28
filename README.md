@@ -4,9 +4,9 @@
 **A fully natural-language, multi-axis cognitive operating system built without code.**
 
 **Concept by:** Masaya Ochiai  
-**Engineered with:** ChatGPT 5.1  
-**License:** CC BY 4.0 
-**Trademarks:** “PolyAgora”, “Cognitive Collective Engine”, “Tri-Axis Architecture”
+**Trademark:** “ArcOS”  
+**License:** CC BY 4.0  
+**Series:** Natural-Language OS Series (ArcOS / PolyAgora / ECHOOS)
 
 ---
 
