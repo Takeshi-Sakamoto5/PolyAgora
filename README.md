@@ -13,7 +13,7 @@
 # 🧭 1. Overview — What Is PolyAgora?
 > This project is part of the **Natural Language OS** ecosystem.  
 > Master hub: https://github.com/Takeshi-Sakamoto5/Natural-Language-OS  
-> Category: **Engine Layer (Executable Natural Language OS)**
+> Category: **Engine Layer (Cognitive Collective OS)**
 
 
 PolyAgora is the world’s first **Pure Natural-Language Multi-Agent Operating System**.
